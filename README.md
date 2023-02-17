@@ -1,7 +1,9 @@
 # ReCreating-Amigaball
-University Homework 2 that was about redoing the Amigaball program from skratch and using OpenFrameWorks.
+University Homework 2 that was about redoing the Amigaball program from skratch and using OpenFrameWorks. 
+Link to download OpenFrameworks: https://openframeworks.cc/download/
 
 Features:
+
 
       1.Implementation of an at runtime adjustable grid (when windowsize changed).
 
